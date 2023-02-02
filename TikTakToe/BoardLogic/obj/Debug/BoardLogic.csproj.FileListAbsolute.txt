@@ -1,0 +1,6 @@
+C:\Users\alvey\source\repos\TikTakToe\BoardLogic\bin\Debug\BoardLogic.dll
+C:\Users\alvey\source\repos\TikTakToe\BoardLogic\bin\Debug\BoardLogic.pdb
+C:\Users\alvey\source\repos\TikTakToe\BoardLogic\obj\Debug\BoardLogic.csproj.AssemblyReference.cache
+C:\Users\alvey\source\repos\TikTakToe\BoardLogic\obj\Debug\BoardLogic.csproj.CoreCompileInputs.cache
+C:\Users\alvey\source\repos\TikTakToe\BoardLogic\obj\Debug\BoardLogic.dll
+C:\Users\alvey\source\repos\TikTakToe\BoardLogic\obj\Debug\BoardLogic.pdb

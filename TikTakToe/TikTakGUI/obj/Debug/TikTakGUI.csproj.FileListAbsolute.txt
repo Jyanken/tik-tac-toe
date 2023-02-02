@@ -1,0 +1,14 @@
+C:\Users\alvey\source\repos\TikTakToe\TikTakGUI\bin\Debug\TikTakGUI.exe.config
+C:\Users\alvey\source\repos\TikTakToe\TikTakGUI\bin\Debug\TikTakGUI.exe
+C:\Users\alvey\source\repos\TikTakToe\TikTakGUI\bin\Debug\TikTakGUI.pdb
+C:\Users\alvey\source\repos\TikTakToe\TikTakGUI\obj\Debug\TikTakGUI.csproj.AssemblyReference.cache
+C:\Users\alvey\source\repos\TikTakToe\TikTakGUI\obj\Debug\TikTakGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvey\source\repos\TikTakToe\TikTakGUI\obj\Debug\TikTakGUI.Properties.Resources.resources
+C:\Users\alvey\source\repos\TikTakToe\TikTakGUI\obj\Debug\TikTakGUI.csproj.GenerateResource.cache
+C:\Users\alvey\source\repos\TikTakToe\TikTakGUI\obj\Debug\TikTakGUI.csproj.CoreCompileInputs.cache
+C:\Users\alvey\source\repos\TikTakToe\TikTakGUI\obj\Debug\TikTakGUI.exe
+C:\Users\alvey\source\repos\TikTakToe\TikTakGUI\obj\Debug\TikTakGUI.pdb
+C:\Users\alvey\source\repos\TikTakToe\TikTakGUI\bin\Debug\BoardLogic.dll
+C:\Users\alvey\source\repos\TikTakToe\TikTakGUI\bin\Debug\BoardLogic.pdb
+C:\Users\alvey\source\repos\TikTakToe\TikTakGUI\obj\Debug\TikTakGUI.Form1.resources
+C:\Users\alvey\source\repos\TikTakToe\TikTakGUI\obj\Debug\TikTakGUI.csproj.CopyComplete
